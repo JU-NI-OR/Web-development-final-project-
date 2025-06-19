@@ -69,9 +69,6 @@ VapeDealsHub/
 
 ---
 
-## 📸 Demo
-
----
 
 ## 🪪 License
 
