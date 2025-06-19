@@ -1,22 +1,45 @@
-# VapeDeals Hub  
-Hey there! I'm Junior Mathe, and I built VapeDeals Hub to solve a simple problem - helping my friends find the best vape deals without getting scammed.  
+# VapeDeals Hub
 
-### What's This About?
-It's a straightforward website where you can:
-- See real prices from different sellers
-- Check out popular brands like Elf Bar and Lost Vape
-- Click through to buy directly
-- Message sellers instantly via WhatsApp
+## Overview
 
-### How to Check It Out
-1. Just download the folder
-2. Open the `index.html` file in your browser (any browser works)
-3. That's it! No complicated setup needed
+VapeDeals Hub is a responsive and user-friendly vape product showcase website. It was built as a frontend-only MVP (Minimum Viable Product) using HTML, CSS, and JavaScript. The platform is designed to help users discover affordable and trusted vape products, with direct links to external shops or purchase platforms.
 
-### Where's the Code?
-You can find everything on GitHub:  
-[https://github.com/JuniorMathe/VapeDealsHub](https://github.com/JuniorMathe/VapeDealsHub)  
+This project targets South African students and small resellers who want to compare puff counts, prices, and brands without having to search multiple stores.
 
-If you've got any questions or suggestions, hit me up!  
+## Features
 
-*Built with HTML/CSS/JS - because sometimes simple is best*
+- Modern and clean interface using a blue + white/black color scheme
+- Static frontend project (no backend required)
+- Product grid layout displaying images, puff counts, and pricing
+- "Buy Now" buttons linking to external sources (e.g., Amazon, WhatsApp)
+- Linked images hosted online (no local uploads necessary)
+- Mobile-responsive layout and structure
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (vanilla)
+
+## Folder Structure
+
+VapeDealsHub/
+├── index.html
+├── products.html
+├── styles.css
+├── script.js
+├── LICENSE
+└── README.md
+
+
+## How to Use
+
+1. Open the folder in a code editor (like CodeSpace or VS Code)
+2. Launch `index.html` in a web browser
+3. Navigate to the "Products" page to view available vapes
+4. Click the "Buy Now" button to be redirected to a store
+5. Optional: Use the WhatsApp button for contact
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
